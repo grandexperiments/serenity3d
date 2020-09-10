@@ -14,6 +14,7 @@ Code is segmented into main areas of operation:
 - Bluetooth: controls RX/TX for the NANO 33 BLE Sense bluetooth module (migration from HM-10 daughterboard complete)
 
 
+![Wiring diagram](https://github.com/grandexperiements/serenity3d/blob/master/wiring-diagram.jpg?raw=true)
 
 
 TODO:
