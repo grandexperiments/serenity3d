@@ -1,6 +1,9 @@
 # serenity3d
 Arduino code controller for LEDs, servos, and audio player running in a custom 3D-printed Serenity (from Firefly)
 
+
+![Custom 3D-printed Serenity](./photos/20200716_123242.jpg?raw=true)
+
 v0.05 migrates from Arduino UNO to multi-threaded Arduino NANO 33 BLE Sense
 
 Code is segmented into main areas of operation:
