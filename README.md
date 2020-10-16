@@ -1,5 +1,6 @@
 # serenity3d
 Arduino code controller for LEDs, servos, and audio player running in a custom 3D-printed Serenity (from Firefly)
+[Full detail video here](https://youtu.be/FRcCBAAaAgQ)
 
 
 ![Custom 3D-printed Serenity](./photos/20200716_123242.jpg?raw=true)
